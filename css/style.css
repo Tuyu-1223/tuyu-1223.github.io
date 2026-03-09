@@ -1,0 +1,142 @@
+ .mainbar{
+    float: left;
+    width:35%;
+    height:100%;
+    border-radius: 30px;
+    margin-left: 15%;
+    margin-top: 2%;
+    padding: 0% 2% 2% 2%;
+    background:rgba(0,0,0,0.6);border:2px solid transparent;
+    box-shadow:0 0 0 2px rgba(255,255,255,.6),0 0px 48px rgba(0,0,0,.5);
+ }
+
+ .mainbar_item{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.navigation_item{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.music_bar{
+    display:flex;
+
+}
+
+.img_display{
+    width: 100%;
+    height: 100%;
+    border-radius: 5%;
+}
+
+.icon_display{
+    width: 80%;
+    height: 80%;
+}
+
+.icon_container{
+    width: 20%;
+    height: 20%;
+    margin-right: 3%;
+    margin-top: 4%;
+
+}
+
+.img_container{
+    width: 20%;
+    height: 20%;
+    margin-right: 3%;
+}
+
+.brief_container{
+    width: 100%;
+}
+
+.navigation_info_cotainer{
+    width: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+ .container_heading{
+    border-bottom: 2px solid whitesmoke;
+    width: 100%;
+    margin-bottom: 4%;
+ }
+
+ .detailbar{
+    float: left;
+    width:35%;
+    height:100%;
+    border-radius: 30px;
+    margin-left: 3%;
+    margin-top: 2%;
+    padding: 0% 2% 2% 2%;
+    background:rgba(0,0,0,0.6);border:2px solid transparent;
+    box-shadow:0 0 0 2px rgba(255,255,255,.6),0 0px 48px rgba(0,0,0,.5);
+ }
+
+
+.music_controller{
+    margin-left: 20px;
+    width: 45%;
+    height: 80%;
+    display: flex;
+}
+.music_title_container{
+    width: 60%;
+}
+.button{
+    background-color: transparent; 
+    border: none; 
+    cursor: pointer; 
+    text-align: left;
+    transition: background 0.3s ease;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+
+}
+.button:hover{
+    background-color: rgba(0,0,0,0.4);
+}
+
+.main_item_button{
+    background-color: transparent; 
+    border: none; 
+    cursor: pointer; 
+    text-align: left;
+    transition: background 0.3s ease;
+    border-radius: 10px;
+}
+.main_item_button:hover{
+    background-color: rgba(0,0,0,0.6);
+}
+
+.navigate_button{
+    width: 100%;
+    background-color: transparent; 
+    border: none; 
+    cursor: pointer; 
+    text-align: left;
+    transition: background 0.3s ease;
+    border-radius: 10px;
+}
+
+.navigate_button:hover{
+    background-color: rgba(0,0,0,0.4);
+}
+
+#content{
+    color: white;
+}

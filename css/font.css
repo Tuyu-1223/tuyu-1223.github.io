@@ -1,0 +1,23 @@
+.title{
+    font-size: 25px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.subtitle{
+    font-size: 15px;
+    color: rgba(245, 245, 245, 0.4);
+}
+.music_title{
+    font-size: 20px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.music_singer{
+    font-size: 15px;
+    color: rgba(245, 245, 245, 0.4);
+}
+.navigatior_font{
+    font-size: 15px;
+    color: whitesmoke;
+}

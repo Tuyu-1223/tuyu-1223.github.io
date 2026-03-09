@@ -1,0 +1,10 @@
+[
+    {
+        "id":1,
+        "title":"初めてのブログ記事",
+        "date":"2026.2.27",
+        "subtitle":"dadwadwda",
+        "mdfile":"./blogs.test.md",
+        "image":"./img/仍是異鄉人.jpg"
+    }
+]
